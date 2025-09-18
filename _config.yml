@@ -68,6 +68,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
+          <div style="text-align:center">
           <img src="images/projects/test.png" alt="Dashboard Comercial" style="max-width:300px;"><br>
           Painel em Power BI desenvolvido para acompanhamento de receita utilizando os conceitos de dados Estratégicos, Táticos e Operacionais.
         # description: | # this will include new lines to allow paragraphs
