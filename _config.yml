@@ -68,9 +68,12 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          <div style="text-align:center">
-          <img src="images/projects/test.png" alt="Dashboard Comercial" style="max-width:300px;"><br>
-          Painel em Power BI desenvolvido para acompanhamento de receita utilizando os conceitos de dados Estratégicos, Táticos e Operacionais.
+          <center>
+            <img src="images/projects/test.png" alt="Dashboard Comercial" style="max-width:300px;">
+            <br>
+            Painel em Power BI desenvolvido para acompanhamento de receita utilizando os conceitos de dados Estratégicos, Táticos e Operacionais.
+          </center>
+        
         # description: | # this will include new lines to allow paragraphs
         #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
