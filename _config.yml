@@ -45,7 +45,7 @@ linkedin_username: wesleypenteadocosta
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: Sobre Mim
+about_title: Sobre Mim
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Olá, me chamo Wesley e sou especialista em planejamento financeiro e estratégico. Durante minha trajetória também adquiri habilidades em análise de dados, tornando-me um profissional completo para levantar, analisar e apoiar a tomada de decisão nas empresas.
@@ -53,11 +53,14 @@ about_content: | # this will include new lines to allow paragraphs
   Meu core reside em: <mark>FP&A</mark>, <mark>Planejamento Estratégico</mark> e <mark>Power BI</mark>
 
 content:
-  - title: Projects # Title for the section
+  - title: Projetos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Dashboards Power BI
+        title: Dashboard Comercial
+        image: /assets/images/projects/p1comercial.jpg
+        image: /assets/images/projects/p1comercial2.jpg
+        image: /assets/images/projects/p1comercial3.jpg
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
@@ -68,7 +71,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Estes são alguns dos projetos desenvolvidos em Power BI.
+          Painel em Power BI desenvolvido para acompanhamento de receita utilizando os conceitos de dados Estratégicos, Táticos e Operacionais.
         # description: | # this will include new lines to allow paragraphs
         #  I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
