@@ -16,7 +16,7 @@ darkmode: true
 
 # Social links
 # twitter_username:
-github_username:  wesleypenteado
+github_username: wesleypenteado
 # stackoverflow_username: 
 # dribbble_username: 
 # facebook_username: 
@@ -30,10 +30,10 @@ linkedin_username: wesleypenteadocosta
 # orcid_username:
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
