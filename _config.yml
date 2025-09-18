@@ -69,17 +69,17 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: >
           <div style="text-align:center">
-            <p>Painel desenvolvido em Power BI para acompanhamento de resultados comerciais utilizando os conceitos de dados Estratégicos, Táticos e Operacionais.</p>
+            <p style="text-align:center;">Painel desenvolvido em Power BI para acompanhamento de resultados comerciais utilizando os conceitos de dados Estratégicos, Táticos e Operacionais.</p>
             <img src="images/projects/p1.1.jpg" alt="Dashboard Comercial" style="max-width:300px; margin:10px;">
             <img src="images/projects/p1.2.jpg" alt="Dashboard Comercial" style="max-width:300px; margin:10px;">
             <img src="images/projects/p1.3.jpg" alt="Dashboard Comercial" style="max-width:300px; margin:10px;">
           </div>
         
       - layout: top-middle
-        title: Funcionários Públicos de SFO
+        title: Remuneração Funcionários Públicos de San Francisco, Califórnia
         description: >
           <div style="text-align:center">
-            <p>Análise da remuneração dos funcionários públicos da cidade de San Francisco, Califórnia.</p>
+            <p style="text-align:center;">Análise da remuneração dos funcionários públicos da cidade de San Francisco, Califórnia.</p>
             <img src="images/projects/p2.1.jpg" alt="Dashboard Comercial" style="max-width:300px; margin:10px;">
             <img src="images/projects/p2.2.jpg" alt="Dashboard Comercial" style="max-width:300px; margin:10px;">
             <img src="images/projects/p2.3.jpg" alt="Dashboard Comercial" style="max-width:300px; margin:10px;">
