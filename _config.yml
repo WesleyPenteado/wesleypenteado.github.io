@@ -45,12 +45,12 @@ linkedin_username: wesleypenteadocosta
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
+# about_title: Sobre Mim
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Olá, me chamo Wesley e sou especialista em planejamento financeiro e estratégico. Durante minha trajetória também adquiri habilidades em análise de dados, tornando-me um profissional completo para levantar, analisar e apoiar a tomada de decisão nas empresas.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Meu core reside em: <mark>FP&A</mark>, <mark>Planejamento Estratégico</mark> e <mark>Power BI</mark>
 
 content:
   - title: Projects # Title for the section
