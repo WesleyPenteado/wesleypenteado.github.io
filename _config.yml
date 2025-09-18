@@ -69,7 +69,9 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: >
           <div style="text-align:center">
-            <img src="images/projects/test.png" alt="Dashboard Comercial" style="max-width:300px; margin:10px;">
+            <img src="images/projects/p1.1.jpg" alt="Dashboard Comercial" style="max-width:300px; margin:10px;">
+            <img src="images/projects/p1.2.jpg" alt="Dashboard Comercial" style="max-width:300px; margin:10px;">
+            <img src="images/projects/p1.3.jpg" alt="Dashboard Comercial" style="max-width:300px; margin:10px;">
             <p>Painel em Power BI desenvolvido para acompanhamento de receita utilizando os conceitos de dados Estratégicos, Táticos e Operacionais.</p>
           </div>
         
