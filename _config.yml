@@ -50,7 +50,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Olá, me chamo Wesley e sou especialista em planejamento financeiro e estratégico. Durante minha trajetória também adquiri habilidades em análise de dados, tornando-me um profissional completo para levantar, analisar e apoiar a tomada de decisão nas empresas.
 
-  Meu core reside em: <mark>FP&A</mark>, <mark>Planejamento Estratégico</mark> e <mark>Power BI</mark>
+  Meu core reside em: <mark>FP&A</mark>, <mark>Planejamento Estratégico</mark> e <mark>Power BI</mark>.
 
 content:
   - title: Projetos # Title for the section
