@@ -9,10 +9,10 @@ version: 2
 name: Wesley Penteado Costa
 title: Especialista em FP&A e Analista de Dados
 email: wesleycosta.ne@gmail.com
-website: https://github.com/WesleyPenteado
+website: https://wesleypenteado.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: TRUE
+darkmode: false
 
 # Social links
 twitter_username: facespics
