@@ -58,7 +58,7 @@ content:
     content:
       - layout: top-middle
         title: Dashboard Comercial
-        image: /images/projects/test.png
+        image: images/projects/test.png
         # link: github.com/sproogen
         # link_text: Project Website
         # additional_links:
