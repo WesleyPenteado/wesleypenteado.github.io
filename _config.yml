@@ -75,8 +75,7 @@ content:
             <img src="images/projects/p1.3.jpg" alt="Dashboard Comercial" style="max-width:300px; margin:10px;">
           </div>
         
-        description: | # this will include new lines to allow paragraphs
-
+      - layout: top-middle
         title: Funcionários Públicos de SFO
         description: >
           <div style="text-align:center">
